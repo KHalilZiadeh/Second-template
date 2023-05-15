@@ -218,7 +218,7 @@ header nav .search i {
 /* Strat of Landing */
 .landing {
     min-height: 100vh;
-    background-image: url("./Assets/landing.jpg");
+    background-image: url("../Assets/landing.jpg");
     background-size: cover;
     position: relative;
 }
@@ -367,7 +367,7 @@ header nav .search i {
     height: 600px;
     display: flex;
     align-items: center;
-    background-image: url(./Assets/design-features.jpg);
+    background-image: url(../Assets/design-features.jpg);
     overflow: hidden;
     position: relative;
     background-size: cover;
@@ -604,7 +604,7 @@ header nav .search i {
 .stats {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url(./Assets/stats.png);
+    background-image: url(../Assets/stats.png);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -815,7 +815,7 @@ header nav .search i {
 .quots {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url(./Assets/quote.jpg);
+    background-image: url(../Assets/quote.jpg);
     background-size: cover;
     color: white;
     position: relative;
@@ -947,7 +947,7 @@ header nav .search i {
 .subscribe {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url(./Assets/subscribe.jpg);
+    background-image: url(../Assets/subscribe.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -1129,7 +1129,7 @@ header nav .search i {
 footer {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url(./Assets/subscribe.jpg);
+    background-image: url(../Assets/subscribe.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
